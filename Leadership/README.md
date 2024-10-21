@@ -1,4 +1,4 @@
-The images in this set focus on building technology leadership capabilities and provide a detailed framework for organizations navigating digital transformation. Below is a detailed summary:
+This focus on building technology leadership capabilities and provide a detailed framework for organizations navigating digital transformation. 
 
 1. **Building Technology Leadership Capabilities**:
    - **Quote by Queen Rania Al-Abdullah**: The chapter begins with an inspiring quote about the importance of listening and sharing for building strength and intelligence in leadership. This sets the tone for the chapter's focus on how leadership plays a key role in successful technology transformation.
@@ -27,4 +27,4 @@ The images in this set focus on building technology leadership capabilities and 
    - **Identify governance mechanisms**: Use committees or liaisons to assist in governance, ensuring that digital efforts are monitored and aligned with strategic goals.
    - **Adjust governance models**: As the company’s governance needs change during the transformation, models must be updated to reflect new challenges and objectives.
 
-Overall, this content underscores the importance of leadership in digital transformation. The emphasis is on fostering strong IT-business relationships, investing in digital platforms, and continuously challenging existing models to explore new opportunities. Additionally, it highlights the need for a clear governance structure to support the transformation efforts, ensuring alignment and accountability across the organization.
+Overall, this underscores the importance of leadership in digital transformation and a leading from front attitude. The emphasis is on fostering strong IT-business relationships, investing in digital platforms, and continuously challenging existing models to explore new opportunities. Additionally, it highlights the need for a clear governance structure to support the transformation efforts, ensuring alignment and accountability across the organization.
