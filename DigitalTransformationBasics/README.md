@@ -10,7 +10,7 @@
    - **Conservatives**: High leadership capability but low digital adoption. These companies are cautious, focusing on stability over innovation.
    - **Beginners**: Companies with low digital and leadership capabilities, which are just starting their digital journey and need to develop both aspects to advance.
 
-5. **Digital Transformation**: The final image discusses what digital masters do differently. They achieve transformation not by isolated interventions but by improving customer experiences, empowering employees, and optimizing internal processes. Success in digital transformation is achieved when leadership integrates digital investments into the company’s overall strategy, ensuring that these investments contribute to measurable business outcomes.
+5. **Digital Transformation**: What digital masters do differently. They achieve transformation not by isolated interventions but by improving customer experiences, empowering employees, and optimizing internal processes. Success in digital transformation is achieved when leadership integrates digital investments into the company’s overall strategy, ensuring that these investments contribute to measurable business outcomes.
 
 Creating superior customer experiences through digital mastery, with a focus on integrating physical and digital interactions, and leveraging data for innovation and transformation are key to success.
 
