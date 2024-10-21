@@ -12,7 +12,7 @@
 
 5. **Digital Transformation**: The final image discusses what digital masters do differently. They achieve transformation not by isolated interventions but by improving customer experiences, empowering employees, and optimizing internal processes. Success in digital transformation is achieved when leadership integrates digital investments into the company’s overall strategy, ensuring that these investments contribute to measurable business outcomes.
 
-The content in the new set of images revolves around creating superior customer experiences through digital mastery, with a focus on integrating physical and digital interactions, and leveraging data for innovation and transformation.
+Creating superior customer experiences through digital mastery, with a focus on integrating physical and digital interactions, and leveraging data for innovation and transformation are key to success.
 
 Here’s a detailed summary of the key points:
 
