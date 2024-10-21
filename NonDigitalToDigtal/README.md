@@ -1,6 +1,4 @@
-The content in this set of images focuses on operational paradoxes in the digital world and practical advice for organizations to drive operational transformation through digital strategies.
-
-Here’s a detailed summary of the key points:
+This focuses on operational paradoxes in the digital world and practical advice for organizations to drive operational transformation through digital strategies.
 
 1. **Operational Paradoxes of the Non-Digital World**:
    The diagram illustrates four operational paradoxes that organizations must navigate to exploit the power of core operations in the digital world:
@@ -20,4 +18,4 @@ Here’s a detailed summary of the key points:
    - **Free yourself from old assumptions** from the pre-digital age: Many legacy assumptions about how businesses should run may no longer be valid.
    - **Look for bottlenecks and inefficiencies**: Identify problem areas in existing processes and explore whether digital technologies can be used to rethink and improve these operations.
 
-In summary, the content emphasizes the need for companies to manage the operational paradoxes that arise when implementing digital strategies. They should focus on finding the right balance between control, standardization, and unleashing innovation, while also freeing themselves from outdated operational assumptions and leveraging digital tools to improve efficiency and flexibility in core processes.
+In summary, it emphasizes the need for companies to manage the operational paradoxes that arise when implementing digital strategies. They should focus on finding the right balance between control, standardization, and unleashing innovation, while also freeing themselves from outdated operational assumptions and leveraging digital tools to improve efficiency and flexibility in core processes.
